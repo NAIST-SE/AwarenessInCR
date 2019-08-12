@@ -13,8 +13,8 @@ Developers are more likely to coordinate when linked, with 66\% of patches havin
 In relation to the timings, awareness is typically raised  five days after a patch is created, and the time when a patch is submitted does not impact its awareness.
 
 ## Contents
-* `dataset` - the dataset analyzed for each research question.
-* `script` - R for the evaluation models.
+* `dataset` - the dataset analyzed for each research question: [RQ1](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/data_RQ1), [RQ2](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/data_RQ2) and [RQ3](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/data_RQ3).
+* `script` - [R for the evaluation models](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/SVM).
 * `README.md` - the description for each file.
 
 
