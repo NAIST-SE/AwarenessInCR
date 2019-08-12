@@ -13,14 +13,16 @@ Developers are more likely to coordinate when linked, with 66\% of patches havin
 In relation to the timings, awareness is typically raised  five days after a patch is created, and the time when a patch is submitted does not impact its awareness.
 
 ## Contents
-* `dataset` - 
-* `script` - python code run on R for the models.
-* `README.md` - this file
+* `dataset` - the dataset analyzed for each research question.
+* `script` - R for the evaluation models.
+* `README.md` - the description for each file.
 
 
 ## Authors
+* Dong Wang - Nara Institute of Science and Technology, Japan
 * [Raula Gaikovina Kula](https://raux.github.io/) - Nara Institute of Science and Technology, Japan
-* [Hideaki Hata](https://hideakihata.github.io/) - Nara Institute of Science and Technology, Japan
+* Shade Ruangwan - Nara Institute of Science and Technology, Japan
+* [PatanamonThongtanunam](http://patanamon.com/) - The University of Melbourne, Australia
 * Kenichi Matsumoto - Nara Institute of Science and Technology, Japan
 
 Our dataset are published on the public domain, so that anyone may freely build upon, enhance and reuse the dataset for any purposes without restriction under copyright or database law.
