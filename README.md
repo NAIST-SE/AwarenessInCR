@@ -1,4 +1,4 @@
-# Replication Package:
+# Dataset:
 
 
 This is a replication package for the paper **A Topological Analysis of Communication Channels for Knowledge Sharing in Contemporary GitHub Projects**.
