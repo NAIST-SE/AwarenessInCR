@@ -22,7 +22,7 @@ In relation to the timings, awareness is typically raised  five days after a pat
 * Dong Wang - Nara Institute of Science and Technology, Japan
 * [Raula Gaikovina Kula](https://raux.github.io/) - Nara Institute of Science and Technology, Japan
 * Shade Ruangwan - Nara Institute of Science and Technology, Japan
-* [PatanamonThongtanunam](http://patanamon.com/) - The University of Melbourne, Australia
+* [Patanamon Thongtanunam](http://patanamon.com/) - The University of Melbourne, Australia
 * Kenichi Matsumoto - Nara Institute of Science and Technology, Japan
 
 Our dataset are published on the public domain, so that anyone may freely build upon, enhance and reuse the dataset for any purposes without restriction under copyright or database law.
