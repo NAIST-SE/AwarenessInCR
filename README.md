@@ -1,8 +1,8 @@
 # Dataset Package:
 
 
-This is a dataset for the paper **Why Reviewers Link Between Patches?-Linked Patches as Indicators for Team Awareness during Code Review Discussions**.
-This artifact is a repository consisting of (a) dataset including (i) 
+This is a dataset for the paper **Why Reviewers Link Between Patches?-Linked Patches as Indicators for Team Awareness during Code Review Discussions**.//
+This artifact is a repository consisting of (a) dataset including (i) RQ1 dataset (ii) RQ2 dataset and (iii) RQ3 dataset and (b) script for the evaluation model.
 
 ## Abstract:
 Due to the asynchronous nature of contemporary software code review tools, there is a risk of spending unnecessary efforts by developers who are unaware and lack prior knowledge on a submitted patch.
