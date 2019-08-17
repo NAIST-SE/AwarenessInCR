@@ -1,4 +1,4 @@
-**This excel file is for the data in RQ3 related to activities after patch awareness:**
+**This excel file is for the data in RQ2 related to activities after patch awareness:**
 
 Repo_id (RP): the id number of receiver patches in our repository referred to Yang’s paper mentioned in paper.
 
