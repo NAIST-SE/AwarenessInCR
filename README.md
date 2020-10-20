@@ -9,7 +9,7 @@ Code reviews serve as a quality assurance activity for software teams.Especially
 
 ## Contents
 * `dataset` - the dataset analyzed for each research question: [RQ1](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/data_RQ1), [RQ2](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/data_RQ2) and [RQ3](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/data_RQ3).
-* `script` - [R for the evaluation models](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/SVM).
+* `script` - [R for the statistical models](https://github.com/NAIST-SE/AwarenessInCR/tree/master/AwarenessInCR/SVM).
 * `README.md` - the description for each file.
 
 
