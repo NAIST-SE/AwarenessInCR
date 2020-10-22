@@ -15,7 +15,7 @@ Code reviews serve as a quality assurance activity for software teams. Especiall
 
 
 ## Authors
-* Dong Wang - Nara Institute of Science and Technology, Japan
+* [Dong Wang](https://dong-w.github.io/) - Nara Institute of Science and Technology, Japan
 * Tao Xiao - Nara Institute of Science and Technology, Japan
 * [Patanamon Thongtanunam](http://patanamon.com/) - The University of Melbourne, Australia
 * [Raula Gaikovina Kula](https://raux.github.io/) - Nara Institute of Science and Technology, Japan
