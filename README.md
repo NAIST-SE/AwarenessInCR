@@ -1,7 +1,7 @@
 # Dataset Package:
 
 
-This is a dataset for the paper **Understanding Shared Links and Their Intention to Meet Information Needs in Modern Code Review**.//
+This is a dataset for the paper **Understanding Shared Links and Their Intentions to Meet Information Needs in Modern Code Review**.//
 This artifact is a repository consisting of (i) raw dataset (ii) labeled link targets and their intentions, and (iii) script for the statistical model
 
 ## Abstract:
